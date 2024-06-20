@@ -1,4 +1,5 @@
-import { Box, Button, FormControl, FormLabel, Input, VStack } from "@chakra-ui/react";
+import { Box, Button, FormControl, FormLabel, Input, VStack, Text, Link } from "@chakra-ui/react";
+import { Link as RouterLink } from "react-router-dom";
 import { FaUser, FaLock } from "react-icons/fa";
 import Navbar from "../components/Navbar";
 
